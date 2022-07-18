@@ -1,0 +1,1261 @@
+{{
+  "ability.ability_aerial_dodge.desc"： "空中でもう一度ジャンプを押すと、ダブルジャンプできます。"、
+  "ability.ability_aerial_dodge_1.name"： "Aerial Dodge LV.1"、
+  "ability.ability_aerial_dodge_2.name"： "Aerial Dodge LV.2"、
+  "ability.ability_aerial_dodge_3.name"： "Aerial Dodge LV.3"、
+  "ability.ability_aerial_dodge_4.name"： "Aerial Dodge MAX"、
+  "ability.ability_auto_final.name"： "自動ファイナル"、
+  "ability.ability_auto_limit.name"： "自動制限"、
+  "ability.ability_auto_master.name"： "自動マスター"、
+  "ability.ability_auto_valor.name"： "Auto Valor"、
+  "ability.ability_auto_wisdom.name"： "自動知恵"、
+  "ability.ability_blizzard_boost.desc"："ブリザードベースの攻撃によるダメージが増加します。"、
+  "ability.ability_blizzard_boost.name"： "ブリザードブースト"、
+  "ability.ability_blizzaza.desc"： "ユーザーがBlizzazaリアクションコマンドを取得できるようにします。チャンスを増やす能力をスタックします。"、
+  "ability.ability_blizzaza.name"： "Blizzaza"、
+  "ability.ability_critical_boost.desc"： "クリティカルヒットによるダメージが10％増加します。効果を増加させる能力をスタックします。"、
+  "ability.ability_critical_boost.name"： "クリティカルブースト"、
+  "ability.ability_damage_control.desc"： "HPが25％以下のときに受けるダメージを半分にします。効果を増やす能力をスタックします。"、
+  "ability.ability_damage_control.name"： "ダメージコントロール"、
+  "ability.ability_damage_drive.desc"： "ダメージを受けるたびにドライブゲージを復元します。ドライブゲージに復元される量は、受けたダメージに比例します。"、
+  "ability.ability_damage_drive.name"： "ダメージドライブ"、
+  "ability.ability_dodge_roll.desc"： "歩行中にアクションボタンを押すと、ロールをかわします。"、
+  "ability.ability_dodge_roll_1.name"： "ドッジロールLV.1"、
+  "ability.ability_dodge_roll_2.name"： "ドッジロールLV.2"、
+  "ability.ability_dodge_roll_3.name"： "ドッジロールLV.3"、
+  "ability.ability_dodge_roll_4.name"： "ドッジロールMAX"、
+  "ability.ability_drive_boost.desc"： "MP充電中のドライブゲージのより大きな復元を可能にします。"、
+  "ability.ability_drive_boost.name"： "ドライブブースト"、
+  "ability.ability_drive_converter.desc"： "すべてのドライブポイントの賞品の値をインクリメント"、
+  "ability.ability_drive_converter.name"： "ドライブコンバーター"、
+  "ability.ability_experience_boost.desc"： "体力が半分以下の場合に得られる経験値が100％増加します。"、
+  "ability.ability_experience_boost.name"： "エクスペリエンスブースト"、
+  "ability.ability_extra_cast.desc"： "MPがなくなる前に最後の1つの呪文を使用できるようにします。"、
+  "ability.ability_extra_cast.name"： "エクストラキャスト"、
+  "ability.ability_firaza.desc"： "ユーザーがキャストしてフィラザ反応コマンドを取得できるようにします。能力をスタックしてチャンスを増やします。"、
+  "ability.ability_firaza.name"： "フィラザ"、
+  "ability.ability_fire_boost.desc"："火による攻撃によるダメージを増加させます。"、
+  "ability.ability_fire_boost.name"： "Fire Boost"、
+  "ability.ability_focus_converter.desc"： "すべてのフォーカス賞品の値を増やします。"、
+  "ability.ability_focus_converter.name"： "フォーカスコンバーター"、
+  "ability.ability_form_boost.desc"： "各ドライブフォームの期間を延長します。"、
+  "ability.ability_form_boost.name"： "フォームブースト"、
+  "ability.ability_full_mp_blast.desc"： "MPがいっぱいになったら、最初の魔法能力のパワーを50％増やします。効果を増やす能力を積み重ねます。"、
+  "ability.ability_full_mp_blast.name"： "フルMPブラスト"、
+  "ability.ability_glide.desc"： "空中で、ジャンプキーを押したまま滑空します。"、
+  "ability.ability_glide_1.name"： "Glide LV.1"、
+  "ability.ability_glide_2.name"： "Glide LV.2"、
+  "ability.ability_glide_3.name"： "Glide LV.3"、
+  "ability.ability_glide_4.name"： "Glide MAX"、
+  "ability.ability_high_jump.desc"： "今、あなたは本当に高くジャンプすることができます！"、
+  "ability.ability_high_jump_1.name"： "走り高跳びLV.1"、
+  "ability.ability_high_jump_2.name"： "走り高跳びLV.2"、
+  "ability.ability_high_jump_3.name"： "走り高跳びLV.3"、
+  "ability.ability_high_jump_4.name"： "走り高跳びMAX"、
+  "ability.ability_item_boost.desc"： "フィールド上のヒーリングアイテムで行われる効果を50％増加させます。効果を高めるためにさらに装備します。"、
+  "ability.ability_item_boost.name"： "アイテムブースト"、
+  "ability.ability_jackpot.desc"： "HP、MP、マニーの賞品の値を増やします。効果を増やす能力を積み重ねます。"、
+  "ability.ability_jackpot.name"： "ジャックポット"、
+  "ability.ability_light_and_darkness.desc"： "秘密の効果があります"、
+  "ability.ability_light_and_darkness.name"： "光と闇"、
+  "ability.ability_lucky_lucky.desc"： "幸運、幸運、略奪を着用者にもたらし、アイテムのドロップ率を高めます。効果を高める能力を積み重ねます。"、
+  "ability.ability_lucky_lucky.name"： "ラッキーストライク"、
+  "ability.ability_mp_haste.desc"： "MPが完全に消費された後、MPの復元速度を上げます。"、
+  "ability.ability_mp_haste.name"： "MP Haste"、
+  "ability.ability_mp_hastega.desc"： "MPが完全に消費された後、MPの復元速度が大幅に向上します。"、
+  "ability.ability_mp_hastega.name"： "MP Hastega"、
+  "ability.ability_mp_hastera.desc"： "MPが完全に消費された後、MPの復元速度がさらに向上します。"、
+  "ability.ability_mp_hastera.name"： "MP Hastera"、
+  "ability.ability_mp_rage.desc"： "受けたダメージの量に応じてMPを復元します。"、
+  "ability.ability_mp_rage.name"： "MP Rage"、
+  "ability.ability_mp_safety.desc"： "ショートカットを使用してMPがなくなったときに再充電を無効にします。ただし、Cureの場合を除きます"、
+  "ability.ability_mp_safety.name"： "MP Safety"、
+  "ability.ability_mp_thrift.desc"： "MPコストを20％減らします。効果を増やす能力をスタックします。"、
+  "ability.ability_mp_thrift.name"： "MP Thrift"、
+  "ability.ability_quick_run.desc"： "実行中にアクションボタンを押すと、スプリントします。"、
+  "ability.ability_quick_run_1.name"： "クイックランLV.1"、
+  "ability.ability_quick_run_2.name"： "クイックランLV.2"、
+  "ability.ability_quick_run_3.name"： "クイックランLV.3"、
+  "ability.ability_quick_run_4.name"： "クイックランMAX"、
+  "ability.ability_scan.desc"："ターゲットの現在のHPを検査します。"、
+  "ability.ability_scan.name"： "スキャン"、
+  "ability.ability_second_chance.desc"： "大きなダメージを受けた後、1HPが残ることを保証します。"、
+  "ability.ability_second_chance.name"： "セカンドチャンス"、
+  "ability.ability_synch_blade.desc"： "各手に武器を装備します。左側の武器の能力も利用可能になります。"、
+  "ability.ability_synch_blade.name"： "同期ブレード"、
+  "ability.ability_thundaza.desc"： "ユーザーがキャストしてThundazaリアクションコマンドを取得できるようにします。能力をスタックしてチャンスを増やします。"、
+  "ability.ability_thundaza.name"： "Thundaza"、
+  "ability.ability_thunder_boost.desc"："雷ベースの攻撃によるダメージを増加させます。"、
+  "ability.ability_thunder_boost.name"： "サンダーブースト"、
+  "ability.ability_treasure_magnet.desc"： "自動的に近くの賞品を集めて集めます。効果を上げる能力を積み重ねてください。"、
+  "ability.ability_treasure_magnet.name"： "トレジャーマグネット"、
+  "ability.ability_waterza.desc"： "ユーザーがキャストしてWaterzaリアクションコマンドを取得できるようにします。能力をスタックしてチャンスを増やします。"、
+  "ability.ability_waterza.name"： "Waterza"、
+  "ability.ability_wizards_ruse.desc"： "消費するMPに比例してHPを回復する可能性があります。オッズを上げる能力をスタックします。"、
+  "ability.ability_wizards_ruse.name"： "ウィザードの策略"、
+  "ability.ability_zero_exp.desc"： "経験の獲得を無効にします。"、
+  "ability.ability_zero_exp.name"： "ゼロEXP"、
+  "biome.kingdomkeys.dive_to_the_heart"： "Dive to the Heart"、
+  "block.kingdomkeys.betwixt_ore"： "Betwixt Ore"、
+  "block.kingdomkeys.betwixt_ore_d"： "Betwixt Ore"、
+  "block.kingdomkeys.blast_blox"： "Blast Blox"、
+  "block.kingdomkeys.blazing_ore"： "燃える鉱石"、
+  "block.kingdomkeys.blazing_ore_d"： "燃える鉱石"、
+  "block.kingdomkeys.blazing_ore_n"： "燃える鉱石"、
+  "block.kingdomkeys.bounce_blox"： "バウンスブロックス"、
+  "block.kingdomkeys.danger_blox"： "Danger Blox"、
+  "block.kingdomkeys.data_portal"： "データポータル"、
+  "block.kingdomkeys.frost_ore"： "フロスト鉱石"、
+  "block.kingdomkeys.frost_ore_d"： "フロスト鉱石"、
+  "block.kingdomkeys.ghost_blox"： "ゴーストブロックス"、
+  "block.kingdomkeys.gummi_editor"： "Gummi Editor"、
+  "block.kingdomkeys.hard_blox"： "ハードブロックス"、
+  "block.kingdomkeys.hungry_ore"： "空腹の鉱石"、
+  "block.kingdomkeys.lightning_ore"： "ライトニング鉱石"、
+  "block.kingdomkeys.lucid_ore"： "Lucid Ore"、
+  "block.kingdomkeys.magical_chest"： "魔法の宝箱"、
+  "block.kingdomkeys.magnet_blox"： "Magnet Blox"、
+  "block.kingdomkeys.metal_blox"： "Metal Blox"、
+  "block.kingdomkeys.moogle_projector"： "Moogle Projector"、
+  "block.kingdomkeys.mosaic_stained_glass"： "モザイクステンドグラス"、
+  "block.kingdomkeys.normal_blox"： "Normal Blox"、
+  "block.kingdomkeys.org_portal"： "組織ポータル"、
+  "block.kingdomkeys.pair_blox"： "ペアブロックス"、
+  "block.kingdomkeys.pedestal"： "台座"、
+  "block.kingdomkeys.prize_blox"： "Prize Blox"、
+  "block.kingdomkeys.pulsing_ore"： "パルス鉱石"、
+  "block.kingdomkeys.pulsing_ore_d"： "パルス鉱石"、
+  "block.kingdomkeys.pulsing_ore_e"： "パルス鉱石"、
+  "block.kingdomkeys.rare_prize_blox"： "レアプライズブロックス"、
+  "block.kingdomkeys.remembrance_ore"： "Remembrance Ore"、
+  "block.kingdomkeys.savepoint"： "セーブポイント"、
+  "block.kingdomkeys.sinister_ore"： "Sinister Ore"、
+  "block.kingdomkeys.sinister_ore_d"： "Sinister Ore"、
+  "block.kingdomkeys.soa_door"： "不思議なドア"、
+  "block.kingdomkeys.soothing_ore"： "Soothing Ore"、
+  "block.kingdomkeys.soothing_ore_d"： "Soothing Ore"、
+  "block.kingdomkeys.sor_core"： "ステーションオブサロウコア"、
+  "block.kingdomkeys.station_of_awakening_core"： "ステーションオブアウェイクニングプラットフォームコア"、
+  "block.kingdomkeys.stormy_ore"： "嵐の鉱石"、
+  "block.kingdomkeys.stormy_ore_d"： "嵐の鉱石"、
+  "block.kingdomkeys.tranquility_ore"： "Tranquility Ore"、
+  "block.kingdomkeys.twilight_ore"： "トワイライト鉱石"、
+  "block.kingdomkeys.twilight_ore_d"： "トワイライト鉱石"、
+  "block.kingdomkeys.twilight_ore_n"： "トワイライト鉱石"、
+  "block.kingdomkeys.wellspring_ore"： "ウェルスプリング鉱石"、
+  "block.kingdomkeys.wellspring_ore_n"： "ウェルスプリング鉱石"、
+  "block.kingdomkeys.writhing_ore"： "身もだえ鉱石"、
+  "block.kingdomkeys.writhing_ore_d"： "身もだえ鉱石"、
+  "block.kingdomkeys.writhing_ore_e"： "身もだえ鉱石"、
+  "block.kingdomkeys.writhing_ore_n"： "身もだえ鉱石"、
+  "container.magical_chest"： "魔法の宝箱"、
+  "container.pedestal"： "Pedestal"、
+  "disc.duration.desc"： "期間"、
+  "disc.durationunits.desc"： "（mins：secs）"、
+  "entity.kingdomkeys.assassin"： "Assassin"、
+  "entity.kingdomkeys.blast_blox_primed"： "Primed Blast Blox"、
+  "entity.kingdomkeys.blue_rhapsody"： "Blue Rhapsody"、
+  "entity.kingdomkeys.darkball"： "Darkball"、
+  "entity.kingdomkeys.detonator"： "起爆装置"、
+  "entity.kingdomkeys.dire_plant"： "Dire Plant"、
+  "entity.kingdomkeys.dusk"： "夕暮れ"、
+  "entity.kingdomkeys.entity_blizzard"： "Blizzard"、
+  "entity.kingdomkeys.entity_chakram"： "チャクラム"、
+  "entity.kingdomkeys.entity_drive_orb"： "DP Orb"、
+  "entity.kingdomkeys.entity_fire"： "Fire"、
+  "entity.kingdomkeys.entity_gravity"： "重力"、
+  "entity.kingdomkeys.entity_hp_orb"： "HP Orb"、
+  "entity.kingdomkeys.entity_lance"： "ランス"、
+  "entity.kingdomkeys.entity_magnet"： "マグネット"、
+  "entity.kingdomkeys.entity_mp_orb"： "MP Orb"、
+  "entity.kingdomkeys.entity_munny"： "マニー"、
+  "entity.kingdomkeys.entity_org_portal"： "組織ポータル"、
+  "entity.kingdomkeys.entity_thunder"： "サンダー"、
+  "entity.kingdomkeys.entity_thunderbolt"： "Thunderbolt"、
+  "entity.kingdomkeys.entity_water"： "水"、
+  "entity.kingdomkeys.giga_shadow"： "GigaShadow"、
+  "entity.kingdomkeys.green_requiem"： "Green Requiem"、
+  "entity.kingdomkeys.large_body"： "Large Body"、
+  "entity.kingdomkeys.marluxia"： "Marluxia"、
+  "entity.kingdomkeys.mega_shadow"： "MegaShadow"、
+  "entity.kingdomkeys.minute_bomb"： "ミニッツボム"、
+  "entity.kingdomkeys.moogle"： "モーグリ"、
+  "entity.kingdomkeys.nobody_creeper"： "Creeper（Nobody）"、
+  "entity.kingdomkeys.pair_blox"： "ペアブロックス"、
+  "entity.kingdomkeys.red_nocturne"： "Red Nocturne"、
+  "entity.kingdomkeys.shadow"： "シャドウ"、
+  "entity.kingdomkeys.shadow_glob"： "Shadow Glob"、
+  "entity.kingdomkeys.skater_bomb"： "スケーター爆弾"、
+  "entity.kingdomkeys.storm_bomb"： "ストームボム"、
+  "entity.kingdomkeys.yellow_opera"： "イエローオペラ"、
+  "form.form_final.name"： "Final"、
+  "form.form_limit.name"： "制限"、
+  "form.form_master.name"： "マスター"、
+  "form.form_valor.name"： "Valor"、
+  "form.form_wisdom.name"： "知恵"、
+  "gui.commandmenu.attack"： "攻撃"、
+  "gui.commandmenu.command"： "コマンド"、
+  "gui.commandmenu.drive"： "ドライブ"、
+  "gui.commandmenu.drive.title"： "フォーム"、
+  "gui.commandmenu.items"： "アイテム"、
+  "gui.commandmenu.items.title"： "アイテム"、
+  "gui.commandmenu.limit"： "制限"、
+  "gui.commandmenu.limit.title"： "制限"、
+  "gui.commandmenu.magic"： "マジック"、
+  "gui.commandmenu.magic.title"： "マジック"、
+  "gui.commandmenu.portal"： "ポータル"、
+  "gui.commandmenu.portal.title"： "ポータル"、
+  "gui.commandmenu.revert"： "元に戻す"、
+  "gui.menu.accept"： "Accept"、
+  "gui.menu.back"： "戻る"、
+  "gui.menu.back.desc"： "前のメニューに戻ります。"、
+  "gui.menu.config"： "Config"、
+  "gui.menu.config.bg"： "背景"、
+  "gui.menu.config.command_menu"： "コマンドメニュー"、
+  "gui.menu.config.dp"： "DPバー"、
+  "gui.menu.config.focus"： "フォーカスバー"、
+  "gui.menu.config.header_title"： "ヘッダータイトル"、
+  "gui.menu.config.hp"： "HP Bar"、
+  "gui.menu.config.hp_per_bar"： "HP Per Bar"、
+  "gui.menu.config.hp_scale"： "HPバースケール"、
+  "gui.menu.config.icon_rotation"： "アイコンの回転速度をロック"、
+  "gui.menu.config.icon_scale"： "アイコンスケールをロック"、
+  "gui.menu.config.impexp"： "インポート/エクスポート"、
+  "gui.menu.config.impexp.export"： "クリップボードにエクスポート"、
+  "gui.menu.config.impexp.import"： "インポート"、
+  "gui.menu.config.lock_on_hp"： "ロックオン"、
+  "gui.menu.config.mp"： "MPバー"、
+  "gui.menu.config.party"： "Party"、
+  "gui.menu.config.player_skin"： "プレーヤースキン"、
+  "gui.menu.config.selected_x_pos"： "選択されたXオフセット"、
+  "gui.menu.config.show_hearts"： "HUDにハートを表示"、
+  "gui.menu.config.sub_x_offset"： "サブメニューXオフセット"、
+  "gui.menu.config.text_x_offset"： "テキストXオフセット"、
+  "gui.menu.config.x_pos"： "X位置"、
+  "gui.menu.config.x_scale"： "Xスケール"、
+  "gui.menu.config.y_dist"： "Y距離"、
+  "gui.menu.config.y_pos"： "Y位置"、
+  "gui.menu.customize"： "カスタマイズ"、
+  "gui.menu.customize.shortcut"： "ショートカット"、
+  "gui.menu.customize.unequip"： "Unequip"、
+  "gui.menu.items"： "アイテム"、
+  "gui.menu.items.equipment"： "機器"、
+  "gui.menu.items.equipment.desc"： "武器とさまざまな装備品を装備します（まだ利用できません）。"、
+  "gui.menu.items.equipment.items"： "アイテム"、
+  "gui.menu.items.equipment.shotlock"： "ショットロック"、
+  "gui.menu.items.equipment.weapon"： "武器"、
+  "gui.menu.items.equipment.weapon.keyblades"： "Keyblades"、
+  "gui.menu.items.stock"： "ストック"、
+  "gui.menu.items.stock.desc"： "在庫を確認してください。"、
+  "gui.menu.main.button.abilities"： "能力"、
+  "gui.menu.main.button.abilities.desc"： "能力を装備または装備解除します。"、
+  "gui.menu.main.button.config"： "Config"、
+  "gui.menu.main.button.config.desc"： "HUDのさまざまなグラフィカルな側面を構成します。"、
+  "gui.menu.main.button.customize"： "カスタマイズ"、
+  "gui.menu.main.button.customize.desc"： "魔法のショートカットをカスタマイズする"、
+  "gui.menu.main.button.items"： "アイテム"、
+  "gui.menu.main.button.items.desc"： "装備品（武器、ポーションなど）とインベントリへのアクセス。"、
+  "gui.menu.main.button.journal"： "ジャーナル"、
+  "gui.menu.main.button.journal.desc"： ""、
+  "gui.menu.main.button.party"： "パーティー"、
+  "gui.menu.main.button.party.desc"： "パーティーを作成して管理します。"、
+  "gui.menu.main.button.status"： "ステータス"、
+  "gui.menu.main.button.status.desc"： "統計を確認してください。"、
+  "gui.menu.main.hearts"： "Hearts"、
+  "gui.menu.main.munny"： "マニー"、
+  "gui.menu.main.synthesis_tier"： "合成層"、
+  "gui.menu.main.time"： "ワールドタイム"、
+  "gui.menu.main.time.spent"： "グローバルタイム"、
+  "gui.menu.party"： "パーティー"、
+  "gui.menu.party.create"： "パーティーの作成"、
+  "gui.menu.party.create.accessibility"： "アクセシビリティと制限"、
+  "gui.menu.party.create.accessibility.private"： "プライベート"、
+  "gui.menu.party.create.accessibility.public"： "パブリック"、
+  "gui.menu.party.create.desc"： "新しいパーティーを作成してください。"、
+  "gui.menu.party.create.name"： "名前"、
+  "gui.menu.party.disband"： "Disband"、
+  "gui.menu.party.invite"： "招待"、
+  "gui.menu.party.join"： "パーティーに参加"、
+  "gui.menu.party.joindesc"： "作成済みのパーティーに参加してください。"、
+  "gui.menu.party.kick"： "キック"、
+  "gui.menu.party.leave"： "Leave"、
+  "gui.menu.party.settings"： "設定"、
+  "gui.menu.status"： "ステータス"、
+  "gui.menu.status.abilities"： "能力"、
+  "gui.menu.status.ability"： "能力"、
+  "gui.menu.status.ap"： "AP"、
+  "gui.menu.status.blizzardres"： "ブリザードレジスタンス"、
+  "gui.menu.status.blizzardresshort"： "Blizzard Res。"、
+  "gui.menu.status.darkres"： "ダークレジスタンス"、
+  "gui.menu.status.darkresshort"： "Dark Res。"、
+  "gui.menu.status.defense"： "防御"、
+  "gui.menu.status.drivegauge"： "ドライブゲージ"、
+  "gui.menu.status.fireres"： "耐火性"、
+  "gui.menu.status.fireresshort"： "Fire Res。"、
+  "gui.menu.status.formgauge"： "フォームゲージ"、
+  "gui.menu.status.formlevel"： "フォームレベル"、
+  "gui.menu.status.hp"： "HP"、
+  "gui.menu.status.level"： "レベル"、
+  "gui.menu.status.magic"： "マジック"、
+  "gui.menu.status.mp"： "MP"、
+  "gui.menu.status.nextlevel"： "次のLV"、
+  "gui.menu.status.strength"： "Strength"、
+  "gui.menu.status.thunderres"： "サンダーレジスタンス"、
+  "gui.menu.status.thunderresshort"： "Thunder Res。"、
+  "gui.menu.status.totalexp"： "エクスペリエンス"、
+  "gui.org.cancel"： "キャンセル"、
+  "gui.org.confirm"： "確認"、
+  "gui.org.line1"： "ダークローブを着用することで、あなたは組織XIIIのメンバーになりました。"、
+  "gui.org.line2"："提携しているOrganizationXIIIのメンバーを選択してください。"、
+  "gui.org.line3"： "あなたの選択はあなたが始める武器を決定します。"、
+  "gui.org.line4"： "％1 $ sに揃えたいですか？"、
+  "gui.org.line5"： "選択した後、これを変更するには費用がかかります。"、
+  "gui.org.ok"： "OK"、
+  "gui.org.select"： "選択"、
+  "gui.proofofheart.desc"： "これを使用してOrganizationXIIIを離れます"、
+  "gui.proofofheart.desc2"： "Organization XIIIのローブを着ていると、使用できなくなります"、
+  "gui.proofofheart.leftorg"： "あなたはOrganizationXIIIを去りました"、
+  "gui.proofofheart.notinorg"： "あなたはOrganizationXIIIに所属していません"、
+  "gui.proofofheart.unequip"： "最初にOrganizationXIIIアーマーの装備を解除してください"、
+  "gui.shop"： "ショップ"、
+  "gui.shop.cost"： "コスト"、
+  「gui.synthesis」：「アイテムワークショップ」、
+  "gui.synthesis.forge"： "Keyblade Forge"、
+  "gui.synthesis.forge.upgrade"： "アップグレード"、
+  "gui.synthesis.materials"： "マテリアルリスト"、
+  "gui.synthesis.materials.deposit"： "デポジット"、
+  "gui.synthesis.materials.take"： "Take"、
+  "gui.synthesis.synthesise"： "合成アイテム"、
+  "gui.synthesis.synthesise.create"： "作成"、
+  "gui.synthesisbag.munny"： "Munny"、
+  "gui.synthesisbag.notenoughmunny"： "マニーが足りません"、
+  "gui.synthesisbag.upgrade"： "アップグレードサイズ"、
+  "item.kingdomkeys.abaddon_plasma"： "Abaddon Plasma"、
+  "item.kingdomkeys.abaddon_plasma_chain"： "アバドンプラズマチェーン"、
+  "item.kingdomkeys.abandoned_dogma"： "放棄されたドグマ"、
+  "item.kingdomkeys.ability_ring"： "アビリティリング"、
+  "item.kingdomkeys.absolute"： "Absolute"、
+  "item.kingdomkeys.absolute_zero"： "絶対零度"、
+  "item.kingdomkeys.abyssal_tide"： "Abyssal Tide"、
+  "item.kingdomkeys.abyssal_tide_chain"： "Abyssal Tide Chain"、
+  "item.kingdomkeys.aced_boots"： "Aced Boots"、
+  "item.kingdomkeys.aced_chestplate"： "Aced Coat"、
+  "item.kingdomkeys.aced_helmet"： "Aced Hood"、
+  "item.kingdomkeys.aced_leggings"： "Aced Leggings"、
+  "item.kingdomkeys.aceds_keyblade"： "Aced's Keyblade"、
+  "item.kingdomkeys.aceds_keyblade_chain"： "Acedのキーブレードチェーン"、
+  "item.kingdomkeys.adamantite"： "アダマンタイト"、
+  "item.kingdomkeys.aegis"： "Aegis"、
+  "item.kingdomkeys.aer"： "Aer"、
+  "item.kingdomkeys.aether"： "オード"、
+  "item.kingdomkeys.after_school"： "放課後"、
+  "item.kingdomkeys.aggression"： "攻撃性"、
+  "item.kingdomkeys.alchemic_waking"： "Alchemic Waking"、
+  "item.kingdomkeys.all_for_one"： "All For One"、
+  "item.kingdomkeys.all_for_one_chain"： "All For One Chain"、
+  "item.kingdomkeys.almighty_darkness"： "全能の闇"、
+  "item.kingdomkeys.ampoule"： "アンプル"、
+  "item.kingdomkeys.annihilation"： "消滅"、
+  "item.kingdomkeys.anticoat_boots"： "AntiCoat Boots"、
+  "item.kingdomkeys.anticoat_chestplate"： "AntiCoat Coat"、
+  "item.kingdomkeys.anticoat_helmet"： "AntiCoat Hood"、
+  "item.kingdomkeys.anticoat_leggings"： "AntiCoatレギンス"、
+  "item.kingdomkeys.apboost"： "AP Boost"、
+  "item.kingdomkeys.aqua_boots"： "アクアブーツ"、
+  "item.kingdomkeys.aqua_chestplate"： "アクアチェストプレート"、
+  "item.kingdomkeys.aqua_helmet"： "アクアヘルメット"、
+  "item.kingdomkeys.aqua_leggings"： "アクアレギンス"、
+  "item.kingdomkeys.aquamarine_ring"： "アクアマリンリング"、
+  "item.kingdomkeys.arcane_compendium"： "秘儀の大要"、
+  "item.kingdomkeys.aristocracy"： "貴族"、
+  "item.kingdomkeys.armstrong"： "アームストロング"、
+  "item.kingdomkeys.arpeggio"： "アルペジオ"、
+  "item.kingdomkeys.artemis"： "Artemis"、
+  "item.kingdomkeys.ashes"： "灰"、
+  "item.kingdomkeys.assassin_spawn_egg"： "Spawn Assassin"、
+  "item.kingdomkeys.astral_blast"： "アストラルブラスト"、
+  "item.kingdomkeys.astral_blast_chain"： "アストラルブラストチェーン"、
+  "item.kingdomkeys.astrologia"： "占星術"、
+  "item.kingdomkeys.asura"： "Asura"、
+  "item.kingdomkeys.atlas_of_omens"： "Atlas Of Omens"、
+  "item.kingdomkeys.aubade"： "Aubade"、
+  "item.kingdomkeys.aubade_chain"： "Aubadeチェーン"、
+  "item.kingdomkeys.autocracy"： "独裁政治"、
+  "item.kingdomkeys.ava_boots"： "Ava Boots"、
+  "item.kingdomkeys.ava_chestplate"： "Ava Coat"、
+  "item.kingdomkeys.ava_helmet"： "Ava Hood"、
+  "item.kingdomkeys.ava_leggings"： "Avaレギンス"、
+  "item.kingdomkeys.avas_keyblade"： "Ava's Keyblade"、
+  "item.kingdomkeys.avas_keyblade_chain"： "Avaのキーブレードチェーン"、
+  "item.kingdomkeys.bahamut"： "バハムート"、
+  "item.kingdomkeys.balsamic_moon"： "バルサミックムーン"、
+  "item.kingdomkeys.basic_model"： "基本モデル"、
+  "item.kingdomkeys.berserker"： "バーサーカー"、
+  "item.kingdomkeys.betwixt_crystal"： "Betwixt Crystal"、
+  "item.kingdomkeys.betwixt_gem"： "Betwixt Gem"、
+  "item.kingdomkeys.betwixt_shard"： "Betwixt Shard"、
+  "item.kingdomkeys.betwixt_stone"： "Betwixt Stone"、
+  "item.kingdomkeys.black_primer"： "ブラックプライマー"、
+  "item.kingdomkeys.blaze_of_glory"： "ブレイズオブグローリー"、
+  "item.kingdomkeys.blazing_crystal"： "ブレイジングクリスタル"、
+  "item.kingdomkeys.blazing_gem"： "ブレイジングジェム"、
+  "item.kingdomkeys.blazing_shard"： "ブレイジングシャード"、
+  "item.kingdomkeys.blazing_stone"： "ブレイジングストーン"、
+  "item.kingdomkeys.bleep_bloop_bop"： "Bleep Bloop Bop"、
+  "item.kingdomkeys.blue_frame"： "ブルーフレーム"、
+  "item.kingdomkeys.blue_rhapsody_spawn_egg"： "Spawn Blue Rhapsody"、
+  "item.kingdomkeys.bond_of_flame"： "Bond Of Flame"、
+  "item.kingdomkeys.bond_of_flame_chain"： "Bond Of Flame Chain"、
+  "item.kingdomkeys.bond_of_the_blaze"： "Bond of the Blaze"、
+  "item.kingdomkeys.bond_of_the_blaze_chain"： "ブレイズチェーンの絆"、
+  "item.kingdomkeys.book_of_retribution"： "Book Of Retribution"、
+  "item.kingdomkeys.bottomless_darkness"： "Bottomless Darkness"、
+  "item.kingdomkeys.brightcrest"： "Brightcrest"、
+  "item.kingdomkeys.brightcrest_chain"： "ブライトクレストチェーン"、
+  "item.kingdomkeys.broom"： "ほうき"、
+  "item.kingdomkeys.brume"： "ブルーム"、
+  "item.kingdomkeys.bunnymoon"： "バニームーン"、
+  "item.kingdomkeys.buried_secrets"： "埋葬された秘密"、
+  "item.kingdomkeys.burnout"： "燃え尽き症候群"、
+  "item.kingdomkeys.calm_bounty"： "Calm Bounty"、
+  "item.kingdomkeys.cardinal_virtue"： "枢要徳"、
+  "item.kingdomkeys.carmin"： "Carmin"、
+  "item.kingdomkeys.chaos_ripper"： "カオスリッパー"、
+  "item.kingdomkeys.chaos_ripper_chain"： "カオスリッパーチェーン"、
+  "item.kingdomkeys.circle_of_life"： "サークルオブライフ"、
+  "item.kingdomkeys.circle_of_life_chain"： "サークルオブライフチェーン"、
+  "item.kingdomkeys.clair_de_lune"： "Clair De Lune"、
+  "item.kingdomkeys.clarity"： "Clarity"、
+  "item.kingdomkeys.cold_blood"： "コールドブラッド"、
+  "item.kingdomkeys.colossus"： "巨像"、
+  "item.kingdomkeys.combustion"： "燃焼"、
+  "item.kingdomkeys.concerto"： "協奏曲"、
+  "item.kingdomkeys.conformers"： "Conformers"、
+  "item.kingdomkeys.conquest"： "征服"、
+  "item.kingdomkeys.contrivance"： "Contrivance"、
+  "item.kingdomkeys.copper_red"： "銅の赤"、
+  "item.kingdomkeys.corona"： "コロナ"、
+  "item.kingdomkeys.cosmic_arts"： "Cosmic Arts"、
+  "item.kingdomkeys.counterpoint"： "Counterpoint"、
+  "item.kingdomkeys.counterpoint_chain"： "カウンターポイントチェーン"、
+  "item.kingdomkeys.counterweight"： "カウンターウェイト"、
+  "item.kingdomkeys.crabclaw"： "Crabclaw"、
+  "item.kingdomkeys.crabclaw_chain"： "クラブクローチェーン"、
+  "item.kingdomkeys.crater"： "クレーター"、
+  "item.kingdomkeys.crescent"： "クレセント"、
+  "item.kingdomkeys.crime_and_punishment"： "犯罪と罰"、
+  "item.kingdomkeys.croix_du_sud"： "Croix Du Sud"、
+  "item.kingdomkeys.crown_of_guilt"： "Crown Of Guilt"、
+  "item.kingdomkeys.crown_of_guilt_chain"： "Crown Of Guilt Chain"、
+  "item.kingdomkeys.crux"： "Crux"、
+  "item.kingdomkeys.cryolite_shield"： "Cryolite Shield"、
+  "item.kingdomkeys.cupids_arrow"： "キューピッドアロー"、
+  "item.kingdomkeys.cursed_manual"： "呪われたマニュアル"、
+  "item.kingdomkeys.cynosura"： "Cynosura"、
+  "item.kingdomkeys.da_capo"： "Da Capo"、
+  "item.kingdomkeys.dainty_bellflowers"： "Dainty Bellflowers"、
+  "item.kingdomkeys.damascus"： "Damascus"、
+  "item.kingdomkeys.darkball_spawn_egg"： "Spawn Darkball"、
+  "item.kingdomkeys.darker_than_dark"： "Darker Than Dark"、
+  "item.kingdomkeys.darker_than_dark_chain"： "ダークチェーンよりも暗い"、
+  "item.kingdomkeys.darkgnaw"： "Darkgnaw"、
+  "item.kingdomkeys.darkgnaw_chain"： "Darkgnaw Chain"、
+  "item.kingdomkeys.daybreak"： "夜明け"、
+  "item.kingdomkeys.dear_diary"： "Dear Diary"、
+  "item.kingdomkeys.death"： "Death"、
+  "item.kingdomkeys.decisive_pumpkin"： "決定的なカボチャ"、
+  "item.kingdomkeys.decisive_pumpkin_chain"： "決定的なカボチャの鎖"、
+  "item.kingdomkeys.deep_freeze"： "ディープフリーズ"、
+  "item.kingdomkeys.defenseboost"： "ディフェンスブースト"、
+  "item.kingdomkeys.delayed_action"： "遅延アクション"、
+  "item.kingdomkeys.deluge"： "Deluge"、
+  "item.kingdomkeys.demoiselle"： "Demoiselle"、
+  "item.kingdomkeys.despair"： "絶望"、
+  "item.kingdomkeys.destinys_embrace"： "Destinys Embrace"、
+  "item.kingdomkeys.destinys_embrace_chain"： "Destinys Embrace Chain"、
+  "item.kingdomkeys.detonator_spawn_egg"： "Spawn Detonator"、
+  "item.kingdomkeys.diablo_eye"： "Diablo Eye"、
+  "item.kingdomkeys.diamond_dust"： "Diamond Dust"、
+  "item.kingdomkeys.diamond_dust_chain"： "ダイヤモンドダストチェーン"、
+  "item.kingdomkeys.diamond_shield"： "ダイアモンドシールド"、
+  "item.kingdomkeys.dichotomy"： "Dichotomy"、
+  "item.kingdomkeys.dire_plant_spawn_egg"： "Spawn Dire Plant"、
+  "item.kingdomkeys.disc_0"： "ミュージックディスク"、
+  "item.kingdomkeys.disc_0.desc"： "下村陽子＆和田薫-眠りによる誕生-未来へのリンク-"、
+  "item.kingdomkeys.disc_1"： "ミュージックディスク"、
+  "item.kingdomkeys.disc_1.desc"： "下村陽子-未知の闇"、
+  "item.kingdomkeys.disc_10"： "ミュージックディスク"、
+  "item.kingdomkeys.disc_10.desc"： "宇多田ヒカル-シンプルでクリーン-PLANITbリミックス-"、
+  "item.kingdomkeys.disc_11"： "ミュージックディスク"、
+  "item.kingdomkeys.disc_11.desc"： "下村陽子-SinisterSundown"、
+  "item.kingdomkeys.disc_12"： "ミュージックディスク"、
+  "item.kingdomkeys.disc_12.desc"："下村陽子-第13回アンソロジー"、
+  "item.kingdomkeys.disc_2"： "ミュージックディスク"、
+  "item.kingdomkeys.disc_2.desc"： "下村陽子、Jonne Valtonen＆Roger Wanamo-Dearly Beloved -Symphony Version-"、
+  "item.kingdomkeys.disc_3"： "ミュージックディスク"、
+  "item.kingdomkeys.disc_3.desc"： "下村陽子＆和田薫-ドリームドロップディスタンス-次の目覚め-"、
+  "item.kingdomkeys.disc_4"： "ミュージックディスク"、
+  "item.kingdomkeys.disc_4.desc"： "下村陽子＆和田薫-光-KINGDOMインストルメンタルバージョン-"、
+  "item.kingdomkeys.disc_5"： "ミュージックディスク"、
+  "item.kingdomkeys.disc_5.desc"："下村陽子-L'OscuritaDell'Ignoto"、
+  "item.kingdomkeys.disc_6"： "ミュージックディスク"、
+  "item.kingdomkeys.disc_6.desc"："下村陽子-Musiquepour la tristesse de Xion"、
+  "item.kingdomkeys.disc_7"： "ミュージックディスク"、
+  "item.kingdomkeys.disc_7.desc"： "下村陽子＆野田博里-もうバグはありません!!-バグバージョン-"、
+  "item.kingdomkeys.disc_8"： "ミュージックディスク"、
+  "item.kingdomkeys.disc_8.desc"："下村陽子-OrganizationXIII"、
+  "item.kingdomkeys.disc_9"： "ミュージックディスク"、
+  "item.kingdomkeys.disc_9.desc"： "宇多田ヒカル-聖域"、
+  "item.kingdomkeys.discipline"： "規律"、
+  "item.kingdomkeys.dissenters_notes"： "Dissenters Notes"、
+  "item.kingdomkeys.dissonance"： "不協和音"、
+  "item.kingdomkeys.dive_bombers"： "急降下爆撃機"、
+  "item.kingdomkeys.divewing"： "Divewing"、
+  "item.kingdomkeys.divewing_chain"： "ダイビングチェーン"、
+  "item.kingdomkeys.divine_rose"： "Divine Rose"、
+  "item.kingdomkeys.divine_rose_chain"： "ディバインローズチェーン"、
+  "item.kingdomkeys.docile_vallota"： "Docile Vallota"、
+  "item.kingdomkeys.doldrums"： "Doldrums"、
+  "item.kingdomkeys.domination"： "支配"、
+  "item.kingdomkeys.double_edge"： "ダブルエッジ"、
+  "item.kingdomkeys.double_tap"： "ダブルタップ"、
+  "item.kingdomkeys.dragonreign"： "Dragonreign"、
+  "item.kingdomkeys.draw_ring"： "ドローリング"、
+  "item.kingdomkeys.dream_shield"： "ドリームシールド"、
+  "item.kingdomkeys.dream_staff"： "ドリームスタッフ"、
+  "item.kingdomkeys.dream_sword"： "ドリームソード"、
+  "item.kingdomkeys.drive_recovery"： "ドライブリカバリ"、
+  "item.kingdomkeys.dryer"： "ドライヤー"、
+  "item.kingdomkeys.dual_disc"： "デュアルディスク"、
+  "item.kingdomkeys.dual_disc_chain"： "デュアルディスクチェーン"、
+  "item.kingdomkeys.dual_head"： "デュアルヘッド"、
+  "item.kingdomkeys.dusk_spawn_egg"： "Spawn Dusk"、
+  "item.kingdomkeys.earthshaker"： "Earthshaker"、
+  "item.kingdomkeys.earthshaker_chain"： "Earthshakerチェーン"、
+  "item.kingdomkeys.earthshine"： "Earthshine"、
+  "item.kingdomkeys.edification"： "Edification"、
+  "item.kingdomkeys.eight_finger"： "Eight Finger"、
+  "item.kingdomkeys.eldritch_esoterica"： "Eldritch Esoterica"、
+  "item.kingdomkeys.electrum"： "Electrum"、
+  "item.kingdomkeys.elixir"： "Elixir"、
+  "item.kingdomkeys.empiricism"： "経験論"、
+  "item.kingdomkeys.end_of_pain"： "End Of Pain"、
+  "item.kingdomkeys.end_of_pain_chain"： "End Of Pain Chain"、
+  "item.kingdomkeys.ends_of_the_earth"： "地球の果て"、
+  "item.kingdomkeys.ends_of_the_earth_chain"： "地球の連鎖の終わり"、
+  "item.kingdomkeys.energy_muzzle"： "エネルギーマズル"、
+  "item.kingdomkeys.eraqus_boots"： "Eraqus Boots"、
+  "item.kingdomkeys.eraqus_chestplate"： "Eraqusチェストプレート"、
+  "item.kingdomkeys.eraqus_helmet"： "Eraqus Helmet"、
+  "item.kingdomkeys.eraqus_leggings"： "Eraqus Leggings"、
+  "item.kingdomkeys.eruption"： "噴火"、
+  "item.kingdomkeys.eternal_flames"： "Eternal Flames"、
+  "item.kingdomkeys.ether"： "Ether"、
+  "item.kingdomkeys.etoile"： "Etoile"、
+  "item.kingdomkeys.evanescent_crystal"： "エヴァネッセントクリスタル"、
+  "item.kingdomkeys.executive_ring"： "エグゼクティブリング"、
+  "item.kingdomkeys.extirpeur"： "Extirpeur"、
+  "item.kingdomkeys.fair_game"： "フェアゲーム"、
+  "item.kingdomkeys.fair_helianthus"： "フェアヘリアンサス"、
+  "item.kingdomkeys.fairy_harp"： "フェアリーハープ"、
+  "item.kingdomkeys.fairy_harp_chain"： "フェアリーハープチェーン"、
+  "item.kingdomkeys.fairy_stars"： "Fairy Stars"、
+  "item.kingdomkeys.fairy_stars_chain"： "フェアリースターズチェーン"、
+  "item.kingdomkeys.faithless_digitalis"： "Faithless Digitalis"、
+  "item.kingdomkeys.false_bounty"： "False Bounty"、
+  "item.kingdomkeys.false_theory"： "False Theory"、
+  "item.kingdomkeys.fatal_crest"： "致命的な紋章"、
+  "item.kingdomkeys.fatal_crest_chain"： "致命的なクレストチェーン"、
+  "item.kingdomkeys.fearsome_anise"： "恐ろしいアニス"、
+  "item.kingdomkeys.feeble_darkness"： "Feeble Darkness"、
+  "item.kingdomkeys.fellking"： "Fellking"、
+  "item.kingdomkeys.fenrir"： "フェンリル"、
+  "item.kingdomkeys.fenrir_chain"： "フェンリルチェーン"、
+  "item.kingdomkeys.fermata"： "Fermata"、
+  "item.kingdomkeys.ferris_gear"： "Ferris Gear"、
+  "item.kingdomkeys.ferris_gear_chain"： "フェリスギアチェーン"、
+  "item.kingdomkeys.ferris_wheel"： "Ferris Wheel"、
+  "item.kingdomkeys.fickle_erica"： "Fickle Erica"、
+  "item.kingdomkeys.final_weapon"： "最終武器"、
+  "item.kingdomkeys.finest_fantasy_13"： "Finest Fantasy 13"、
+  "item.kingdomkeys.fire_bangle"： "ファイアバングル"、
+  "item.kingdomkeys.firefly"： "ホタル"、
+  "item.kingdomkeys.fluorite"： "蛍石"、
+  "item.kingdomkeys.follow_the_wind"： "Follow the Wind"、
+  "item.kingdomkeys.follow_the_wind_chain"： "Follow The Wind Chain"、
+  "item.kingdomkeys.fortissimo"： "Fortissimo"、
+  "item.kingdomkeys.foudre"： "Foudre"、
+  "item.kingdomkeys.foxfire"： "Foxfire"、
+  "item.kingdomkeys.freakish_bestiary"： "Freakish Bestiary"、
+  "item.kingdomkeys.frolic_flame"： "Frolic Flame"、
+  "item.kingdomkeys.frolic_flame_chain"： "Frolic Flame Chain"、
+  "item.kingdomkeys.frost_crystal"： "フロストクリスタル"、
+  "item.kingdomkeys.frost_gem"： "フロストジェム"、
+  "item.kingdomkeys.frost_shard"： "フロストシャード"、
+  "item.kingdomkeys.frost_stone"： "フロストストーン"、
+  "item.kingdomkeys.frozen_pride"： "Frozen Pride"、
+  "item.kingdomkeys.fuligin"： "Fuligin"、
+  "item.kingdomkeys.full_bloom"： "満開"、
+  "item.kingdomkeys.full_bloom_plus"： "Full Bloom +"、
+  "item.kingdomkeys.fury"： "Fury"、
+  "item.kingdomkeys.gallant_achillea"： "Gallant Achillea"、
+  "item.kingdomkeys.gibbous"： "Gibbous"、
+  "item.kingdomkeys.giga_shadow_spawn_egg"： "Spawn GigaShadow"、
+  "item.kingdomkeys.glacier"： "氷河"、
+  "item.kingdomkeys.glimpse_of_darkness"： "Glimpse Of Darkness"、
+  "item.kingdomkeys.glimpse_of_darkness_chain"： "Glimpse Of Darkness Chain"、
+  "item.kingdomkeys.goliath"： "Goliath"、
+  "item.kingdomkeys.graceful_dahlia"： "Graceful Dahlia"、
+  "item.kingdomkeys.green_requiem_spawn_egg"： "Spawn Green Requiem"、
+  "item.kingdomkeys.grim_muscari"： "Grim Muscari"、
+  "item.kingdomkeys.guarded_trove"： "Guarded Trove"、
+  "item.kingdomkeys.guardian_bell"： "ガーディアンベル"、
+  "item.kingdomkeys.guardian_bell_chain"： "ガーディアンベルチェーン"、
+  "item.kingdomkeys.guardian_soul"： "ガーディアンソウル"、
+  "item.kingdomkeys.guardian_soul_chain"： "ガーディアンソウルチェーン"、
+  "item.kingdomkeys.gula_boots"： "グラブーツ"、
+  "item.kingdomkeys.gula_chestplate"： "グラコート"、
+  "item.kingdomkeys.gula_helmet"： "Gula Hood"、
+  "item.kingdomkeys.gula_leggings"： "グラレギンス"、
+  "item.kingdomkeys.gulas_keyblade"： "Gula's Keyblade"、
+  "item.kingdomkeys.gulas_keyblade_chain"： "グラのキーブレードチェーン"、
+  "item.kingdomkeys.gull_wing"： "ガルウィング"、
+  "item.kingdomkeys.gull_wing_chain"： "ガルウィングチェーン"、
+  "item.kingdomkeys.gullwing"： "ガルウィング"、
+  "item.kingdomkeys.gunz"： "Gunz"、
+  "item.kingdomkeys.hallowed_lotus"： "Hallowed Lotus"、
+  "item.kingdomkeys.harbinger"： "Harbinger"、
+  "item.kingdomkeys.hard_boiled_heat"： "ハードボイルドヒート"、
+  "item.kingdomkeys.hard_winter"： "厳しい冬"、
+  "item.kingdomkeys.harmonics"： "ハーモニクス"、
+  "item.kingdomkeys.heavenfall"： "Heavenfall"、
+  "item.kingdomkeys.hegemon"： "ヘゲモン"、
+  "item.kingdomkeys.heros_crest"： "Heros Crest"、
+  "item.kingdomkeys.heros_crest_chain"： "Heros Crest Chain"、
+  "item.kingdomkeys.hi_drive_recovery"： "ハイドライブリカバリ"、
+  "item.kingdomkeys.hi_ether"： "Hi-Ether"、
+  "item.kingdomkeys.hi_potion"： "Hi-Potion"、
+  "item.kingdomkeys.hi_refocuser"： "Hi-Refocuser"、
+  "item.kingdomkeys.hidden_​​dragon"： "隠されたドラゴン"、
+  "item.kingdomkeys.hidden_​​dragon_chain"： "隠されたドラゴンチェーン"、
+  "item.kingdomkeys.high_rollers_secret"： "ハイローラーシークレット"、
+  "item.kingdomkeys.horoscope"： "星占い"、
+  "item.kingdomkeys.hungry_crystal"： "ハングリークリスタル"、
+  "item.kingdomkeys.hungry_gem"： "Hungry Gem"、
+  "item.kingdomkeys.hungry_shard"： "Hungry Shard"、
+  "item.kingdomkeys.hungry_stone"： "Hungry Stone"、
+  "item.kingdomkeys.hyperdrive"： "ハイパードライブ"、
+  "item.kingdomkeys.hyperdrive_chain"： "ハイパードライブチェーン"、
+  "item.kingdomkeys.hyperion"： "Hyperion"、
+  "item.kingdomkeys.ice_cream"： "シーソルトアイスクリーム"、
+  "item.kingdomkeys.iceberg"： "氷山"、
+  "item.kingdomkeys.ifrit"： "イフリート"、
+  "item.kingdomkeys.ignition"： "イグニッション"、
+  "item.kingdomkeys.illicit_research"： "Illicit Research"、
+  "item.kingdomkeys.illusory_crystal"： "Illusory Crystal"、
+  "item.kingdomkeys.incomplete_kiblade"："不完全な\u03C7-ブレード"、
+  "item.kingdomkeys.incomplete_kiblade_chain"："不完全な\u03C7-ブレードチェーン"、
+  "item.kingdomkeys.indescribable_lore"： "Indescribable Lore"、
+  "item.kingdomkeys.indigo"： "インディゴ"、
+  "item.kingdomkeys.inferno"： "インフェルノ"、
+  "item.kingdomkeys.infinity"： "Infinity"、
+  "item.kingdomkeys.inquisition"： "異端審問"、
+  "item.kingdomkeys.interdiction"： "阻止"、
+  "item.kingdomkeys.interlude"： "間奏"、
+  "item.kingdomkeys.invi_boots"： "Invi Boots"、
+  "item.kingdomkeys.invi_chestplate"： "Invi Coat"、
+  "item.kingdomkeys.invi_helmet"： "Invi Hood"、
+  "item.kingdomkeys.invi_leggings"： "Inviレギンス"、
+  "item.kingdomkeys.invis_keyblade"： "Inviのキーブレード"、
+  "item.kingdomkeys.invis_keyblade_chain"： "Inviのキーブレードチェーン"、
+  "item.kingdomkeys.ira_boots"： "Ira Boots"、
+  "item.kingdomkeys.ira_chestplate"： "イラコート"、
+  "item.kingdomkeys.ira_helmet"： "Ira Hood"、
+  "item.kingdomkeys.ira_leggings"： "Ira Leggings"、
+  "item.kingdomkeys.iras_keyblade"： "Ira's Keyblade"、
+  "item.kingdomkeys.iras_keyblade_chain"： "Ira's Keyblade Chain"、
+  "item.kingdomkeys.iron_black"： "アイアンブラック"、
+  "item.kingdomkeys.irregulier"： "Irregulier"、
+  "item.kingdomkeys.jilted_anemone"： "Jilted Anemone"、
+  "item.kingdomkeys.judgement"： "判断"、
+  "item.kingdomkeys.jungle_king"： "ジャングルキング"、
+  "item.kingdomkeys.jungle_king_chain"： "ジャングルキングチェーン"、
+  "item.kingdomkeys.just_desserts"： "Just Desserts"、
+  "item.kingdomkeys.justice"： "正義"、
+  "item.kingdomkeys.keyblade_of_peoples_hearts"： "Keyblade Of People's Hearts"、
+  "item.kingdomkeys.keyblade_of_peoples_hearts_chain"： "Keyblade Of People's Hearts Chain"、
+  "item.kingdomkeys.kiblade"： "\ u03C7-ブレード"、
+  "item.kingdomkeys.kiblade_chain"： "\ u03C7-ブレードチェーン"、
+  "item.kingdomkeys.killerbee"： "Killerbee"、
+  "item.kingdomkeys.king_of_the_night"： "キングオブザナイト"、
+  "item.kingdomkeys.kingdom_key"： "キングダムキー"、
+  "item.kingdomkeys.kingdom_key_chain"： "キングダムキーホルダー"、
+  "item.kingdomkeys.kingdom_key_d"： "Kingdom Key D"、
+  "item.kingdomkeys.kingdom_key_d_chain"： "Kingdom Key D Chain"、
+  "item.kingdomkeys.knockout_punch"： "ノックアウトパンチ"、
+  "item.kingdomkeys.knockout_punch_chain"： "ノックアウトパンチチェーン"、
+  "item.kingdomkeys.lady_luck"： "Lady Luck"、
+  "item.kingdomkeys.lady_luck_chain"： "Lady Luck Chain"、
+  "item.kingdomkeys.large_body_spawn_egg"： "Spawn Large Body"、
+  "item.kingdomkeys.levelupdrivefinal"： "ファイナルフォームオーブ"、
+  "item.kingdomkeys.levelupdrivelimit"： "Limit Form Orb"、
+  "item.kingdomkeys.levelupdrivemaster"： "マスターフォームオーブ"、
+  "item.kingdomkeys.levelupdrivevalor"： "Valor Form Orb"、
+  "item.kingdomkeys.levelupdrivewisdom"： "Wisdom Form Orb"、
+  "item.kingdomkeys.leviathan"： "リバイアサン"、
+  "item.kingdomkeys.leviathan_chain"： "リバイアサンチェーン"、
+  "item.kingdomkeys.light_year"： "光年"、
+  "item.kingdomkeys.lightning_crystal"： "ライトニングクリスタル"、
+  "item.kingdomkeys.lightning_gem"： "ライトニングジェム"、
+  "item.kingdomkeys.lightning_shard"： "ライトニングシャード"、
+  "item.kingdomkeys.lightning_stone"： "ライトニングストーン"、
+  "item.kingdomkeys.lindworm"： "Lindworm"、
+  "item.kingdomkeys.lionheart"： "ライオンハート"、
+  "item.kingdomkeys.lionheart_chain"： "ライオンハートチェーン"、
+  "item.kingdomkeys.lofty_gerbera"： "Lofty Gerbera"、
+  "item.kingdomkeys.looming_darkness"： "Looming Darkness"、
+  "item.kingdomkeys.lost_heterodoxy"： "失われたヘテロドキシ"、
+  "item.kingdomkeys.lost_illusion"： "ロストイリュージョン"、
+  "item.kingdomkeys.lost_memory"： "失われたメモリ"、
+  "item.kingdomkeys.lost_memory_chain"： "失われたメモリチェーン"、
+  "item.kingdomkeys.lucid_crystal"： "Lucid Crystal"、
+  "item.kingdomkeys.lucid_gem"： "Lucid Gem"、
+  "item.kingdomkeys.lucid_shard"： "Lucid Shard"、
+  "item.kingdomkeys.lucid_stone"： "Lucid Stone"、
+  "item.kingdomkeys.lucky_ring"： "ラッキーリング"、
+  "item.kingdomkeys.luminary"： "Luminary"、
+  "item.kingdomkeys.lumineuse"： "Lumineuse"、
+  "item.kingdomkeys.lunar_eclipse"： "月食"、
+  "item.kingdomkeys.lunar_eclipse_chain"： "月食チェーン"、
+  "item.kingdomkeys.lunar_phase"： "月の満ち欠け"、
+  "item.kingdomkeys.lunatic"： "Lunatic"、
+  "item.kingdomkeys.mad_safflower"： "マッドベニバナ"、
+  "item.kingdomkeys.madmans_vita"： "Madmans Vita"、
+  "item.kingdomkeys.magicboost"： "マジックブースト"、
+  "item.kingdomkeys.magma_ocean"： "マグマオーシャン"、
+  "item.kingdomkeys.magnificence"： "Magnificence"、
+  "item.kingdomkeys.malice"： "Malice"、
+  "item.kingdomkeys.manifest_illusion"： "マニフェストイリュージョン"、
+  "item.kingdomkeys.mark_of_a_hero"： "Mark Of A Hero"、
+  "item.kingdomkeys.mark_of_a_hero_chain"： "Mark Of A Hero Chain"、
+  "item.kingdomkeys.martial_waking"： "Martial Waking"、
+  "item.kingdomkeys.masters_defender"： "マスターズディフェンダー"、
+  "item.kingdomkeys.masters_defender_chain"： "マスターズディフェンダーチェーン"、
+  "item.kingdomkeys.maverick_flare"： "マーベリックフレア"、
+  "item.kingdomkeys.maverick_flare_chain"： "マーベリックフレアチェーン"、
+  "item.kingdomkeys.mazzaroth"： "Mazzaroth"、
+  "item.kingdomkeys.mega_ether"： "Mega-Ether"、
+  "item.kingdomkeys.mega_lixir"： "Megalixir"、
+  "item.kingdomkeys.mega_potion"： "メガポーション"、
+  "item.kingdomkeys.mega_shadow_spawn_egg"： "Spawn MegaShadow"、
+  "item.kingdomkeys.megacosm"： "メガコスム"、
+  "item.kingdomkeys.metal_chocobo"： "メタルチョコボ"、
+  "item.kingdomkeys.metal_chocobo_chain"： "メタルチョコボチェーン"、
+  "item.kingdomkeys.meteore"： "Meteore"、
+  "item.kingdomkeys.midnight_roar"： "真夜中の咆哮"、
+  "item.kingdomkeys.midnight_roar_chain"： "ミッドナイトロアチェーン"、
+  "item.kingdomkeys.midnight_snack"： "ミッドナイトスナック"、
+  "item.kingdomkeys.million_bucks"： "ミリオンバックス"、
+  "item.kingdomkeys.mindel"： "ミンデル"、
+  "item.kingdomkeys.mingling_worlds"： "Mingling Worlds"、
+  "item.kingdomkeys.minute_bomb_spawn_egg"： "スポーンミニッツボム"、
+  "item.kingdomkeys.mirage_split"： "ミラージュスプリット"、
+  "item.kingdomkeys.mirage_split_chain"： "ミラージュスプリットチェーン"、
+  "item.kingdomkeys.missing_ache"： "Missing Ache"、
+  "item.kingdomkeys.missing_ache_chain"： "Missing Ache Chain"、
+  "item.kingdomkeys.moments_reprieve"： "Moment's Reprieve"、
+  "item.kingdomkeys.monochrome"： "モノクロ"、
+  "item.kingdomkeys.monochrome_chain"： "モノクロチェーン"、
+  "item.kingdomkeys.monolith"： "モノリス"、
+  "item.kingdomkeys.moogle_o_glory"： "Moogle O Glory"、
+  "item.kingdomkeys.moogle_o_glory_chain"： "Moogle O Glory Chain"、
+  "item.kingdomkeys.moogle_room"： "モーグリルーム"、
+  "item.kingdomkeys.moogle_spawn_egg"： "Spawn Moogle"、
+  "item.kingdomkeys.moonglade"： "Moonglade"、
+  "item.kingdomkeys.moonrise"： "月の出"、
+  "item.kingdomkeys.moonset"： "ムーンセット"、
+  "item.kingdomkeys.moulin_rouge"： "ムーランルージュ"、
+  "item.kingdomkeys.mournful_cineria"： "Mournful Cineria"、
+  "item.kingdomkeys.mysterious_abyss"： "ミステリアスアビス"、
+  "item.kingdomkeys.mysterious_abyss_chain"： "ミステリアスアビスチェーン"、
+  "item.kingdomkeys.mystic_album"： "ミスティックアルバム"、
+  "item.kingdomkeys.mythril_crystal"： "ミスリルクリスタル"、
+  "item.kingdomkeys.mythril_gem"： "ミスリルジェム"、
+  "item.kingdomkeys.mythril_shard"： "ミスリルシャード"、
+  "item.kingdomkeys.mythril_stone"： "ミスリルストーン"、
+  "item.kingdomkeys.nefarious_codex"： "Nefarious Codex"、
+  "item.kingdomkeys.nescience"： "Nescience"、
+  "item.kingdomkeys.new_moon"： "ニュームーン"、
+  "item.kingdomkeys.nightcloud"： "Nightcloud"、
+  "item.kingdomkeys.nightmares_end"： "ナイトメアエンド"、
+  "item.kingdomkeys.nightmares_end_and_mirage_split"： "結合されたキーブレード"、
+  "item.kingdomkeys.nightmares_end_and_mirage_split_chain"： "結合されたキーブレードチェーン"、
+  "item.kingdomkeys.nightmares_end_chain"： "ナイトメアエンドチェーン"、
+  "item.kingdomkeys.nightmareventus_boots"： "ナイトメアベンタスブーツ"、
+  "item.kingdomkeys.nightmareventus_chestplate"： "ナイトメアベンタスチェストプレート"、
+  "item.kingdomkeys.nightmareventus_helmet"： "ナイトメアベンタスヘルメット"、
+  "item.kingdomkeys.nightmareventus_leggings"： "ナイトメアベンタスレギンス"、
+  "item.kingdomkeys.no_name"： "名前なし"、
+  "item.kingdomkeys.no_name_bbs"： "名前なし（BBS）"、
+  "item.kingdomkeys.no_name_bbs_chain"： "名前なし（BBS）チェーン"、
+  "item.kingdomkeys.no_name_chain"： "名前チェーンなし"、
+  "item.kingdomkeys.noble_peony"： "ノーブルピオニー"、
+  "item.kingdomkeys.nobody_creeper_spawn_egg"： "Spawn Creeper（Nobody）"、
+  "item.kingdomkeys.oathkeeper"： "Oathkeeper"、
+  "item.kingdomkeys.oathkeeper_chain"： "Oathkeeper Chain"、
+  "item.kingdomkeys.oblivion"： "Oblivion"、
+  "item.kingdomkeys.oblivion_chain"： "オブリビオンチェーン"、
+  "item.kingdomkeys.oceans_rage"： "Oceans Rage"、
+  "item.kingdomkeys.oceans_rage_chain"： "Oceans Rage Chain"、
+  "item.kingdomkeys.octiron"： "Octiron"、
+  "item.kingdomkeys.old_hand"： "Old Hand"、
+  "item.kingdomkeys.olympia"： "オリンピア"、
+  "item.kingdomkeys.olympia_chain"： "オリンピアチェーン"、
+  "item.kingdomkeys.omega_trinity"： "オメガトリニティ"、
+  "item.kingdomkeys.omega_weapon"： "オメガウェポン"、
+  "item.kingdomkeys.omega_weapon_chain"： "オメガウェポンチェーン"、
+  "item.kingdomkeys.ominous_blight"： "不吉なブライト"、
+  "item.kingdomkeys.ominous_blight_chain"： "不吉なブライトチェーン"、
+  "item.kingdomkeys.one_thousand_and_one_nights"： "千夜一夜物語"、
+  "item.kingdomkeys.one_winged_angel"： "片翼の天使"、
+  "item.kingdomkeys.one_winged_angel_chain"： "片翼の天使チェーン"、
+  "item.kingdomkeys.orage"： "Orage"、
+  "item.kingdomkeys.orbit"： "オービット"、
+  "item.kingdomkeys.organization_boots"： "Organization Boots"、
+  "item.kingdomkeys.organization_chestplate"： "Organization Coat"、
+  "item.kingdomkeys.organization_helmet"： "組織フード"、
+  "item.kingdomkeys.organization_leggings"： "組織レギンス"、
+  "item.kingdomkeys.orichalcum"： "Orichalcum"、
+  "item.kingdomkeys.orichalcumplus"： "Orichalcum +"、
+  "item.kingdomkeys.otherworldly_tales"： "Otherworldly Tales"、
+  "item.kingdomkeys.outbreak"： "アウトブレイク"、
+  "item.kingdomkeys.overlord"： "Overlord"、
+  "item.kingdomkeys.overture"： "序曲"、
+  "item.kingdomkeys.pain_of_solitude"： "Pain Of Solitude"、
+  "item.kingdomkeys.pain_of_solitude_chain"： "Pain Of Solitude Chain"、
+  "item.kingdomkeys.paladin"： "パラディン"、
+  "item.kingdomkeys.parting_ipheion"： "Parting Ipheion"、
+  "item.kingdomkeys.photon_debugger"： "フォトンデバッガー"、
+  "item.kingdomkeys.photon_debugger_chain"： "フォトンデバッガチェーン"、
+  "item.kingdomkeys.pixie_petal"： "Pixie Petal"、
+  "item.kingdomkeys.pixie_petal_chain"： "ピクシーペタルチェーン"、
+  "item.kingdomkeys.pizza_cut"： "ピザカット"、
+  "item.kingdomkeys.poor_melissa"： "貧しいメリッサ"、
+  "item.kingdomkeys.pot_lid"： "ポットリッド"、
+  "item.kingdomkeys.potion"： "ポーション"、
+  "item.kingdomkeys.power_chord"： "パワーコード"、
+  "item.kingdomkeys.powerboost"： "パワーブースト"、
+  "item.kingdomkeys.precision"： "Precision"、
+  "item.kingdomkeys.prince_of_awesome"： "Prince Of Awesome"、
+  "item.kingdomkeys.product_one"： "Product One"、
+  "item.kingdomkeys.prometheus"： "プロメテウス"、
+  "item.kingdomkeys.prominence"： "プロミネンス"、
+  "item.kingdomkeys.proof_of_heart"： "Proof of Heart"、
+  "item.kingdomkeys.prosperous_repository"： "Prosperous Repository"、
+  "item.kingdomkeys.proud_amaryllis"： "誇り高きアマリリス"、
+  "item.kingdomkeys.pseudo_silene"： "Pseudo Silene"、
+  "item.kingdomkeys.pulsing_crystal"： "パルスクリスタル"、
+  "item.kingdomkeys.pulsing_gem"： "Pulsing Gem"、
+  "item.kingdomkeys.pulsing_shard"： "パルスシャード"、
+  "item.kingdomkeys.pulsing_stone"： "パルスストーン"、
+  "item.kingdomkeys.pumpkinhead"： "Pumpkinhead"、
+  "item.kingdomkeys.pumpkinhead_chain"： "パンプキンヘッドチェーン"、
+  "item.kingdomkeys.quartet"： "カルテット"、
+  "item.kingdomkeys.queen_of_the_night"： "クイーンオブザナイト"、
+  "item.kingdomkeys.quiet_belladonna"： "静かなベラドンナ"、
+  "item.kingdomkeys.quintet"： "クインテット"、
+  "item.kingdomkeys.radical_treatise"： "Radical Treatise"、
+  "item.kingdomkeys.rafale"： "ラファール"、
+  "item.kingdomkeys.rainfell"： "Rainfell"、
+  "item.kingdomkeys.rainfell_chain"： "Rainfell Chain"、
+  "item.kingdomkeys.recipe"： "レシピ"、
+  "item.kingdomkeys.recipe_a"： "Tier A Recipe"、
+  "item.kingdomkeys.recipe_b"： "Tier Bレシピ"、
+  "item.kingdomkeys.recipe_c"： "Tier Cレシピ"、
+  "item.kingdomkeys.recipe_d"： "Tier Dレシピ"、
+  "item.kingdomkeys.recipe_s"： "Tier Sレシピ"、
+  "item.kingdomkeys.recipe_ss"： "Tier SSレシピ"、
+  "item.kingdomkeys.recipe_sss"： "Tier SSS Recipe"、
+  "item.kingdomkeys.red_nocturne_spawn_egg"： "Spawn Red Nocturne"、
+  "item.kingdomkeys.redwood"： "Redwood"、
+  "item.kingdomkeys.refocuser"： "Refocuser"、
+  "item.kingdomkeys.rejection_of_fate"： "Rejection Of Fate"、
+  "item.kingdomkeys.rejection_of_fate_chain"： "運命の連鎖の拒絶"、
+  "item.kingdomkeys.remembrance_crystal"： "Remembrance Crystal"、
+  "item.kingdomkeys.remembrance_gem"： "Remembrance Gem"、
+  "item.kingdomkeys.remembrance_shard"： "Remembrance Shard"、
+  "item.kingdomkeys.remembrance_stone"： "Remembrance Stone"、
+  "item.kingdomkeys.reposeful_grove"： "Reposeful Grove"、
+  "item.kingdomkeys.reticence"： "Reticence"、
+  "item.kingdomkeys.revolting_scrapbook"： "Revolting Scrapbook"、
+  "item.kingdomkeys.rise_to_fame"： "Rise To Fame"、
+  "item.kingdomkeys.rock_star"： "ロックスター"、
+  "item.kingdomkeys.round_fan"： "ラウンドファン"、
+  "item.kingdomkeys.royal_radiance"： "Royal Radiance"、
+  "item.kingdomkeys.royal_radiance_chain"： "ロイヤルラディアンスチェーン"、
+  "item.kingdomkeys.ruination"： "Ruination"、
+  "item.kingdomkeys.rumbling_rose"： "Rumbling Rose"、
+  "item.kingdomkeys.rumbling_rose_chain"： "ランブリングローズチェーン"、
+  "item.kingdomkeys.sanction"： "制裁"、
+  "item.kingdomkeys.sanctuary"： "Sanctuary"、
+  "item.kingdomkeys.scission"： "Scission"、
+  "item.kingdomkeys.scrutiny"： "精査"、
+  "item.kingdomkeys.selene"： "Selene"、
+  "item.kingdomkeys.sequoia"： "Sequoia"、
+  "item.kingdomkeys.serenade"： "セレナーデ"、
+  "item.kingdomkeys.shadow_archive"： "シャドウアーカイブ"、
+  "item.kingdomkeys.shadow_archive_plus"： "Shadow Archive +"、
+  "item.kingdomkeys.shadow_glob_spawn_egg"： "Spawn Shadow Glob"、
+  "item.kingdomkeys.shadow_spawn_egg"： "Spawn Shadow"、
+  "item.kingdomkeys.sharpshooter"： "Sharpshooter"、
+  "item.kingdomkeys.shimmer"： "きらめき"、
+  "item.kingdomkeys.shooting_star"： "シューティングスター"、
+  "item.kingdomkeys.shooting_star_chain"： "シューティングスターチェーン"、
+  "item.kingdomkeys.sign_of_innocence"： "Sign Of Innocence"、
+  "item.kingdomkeys.sign_of_innocence_chain"： "Sign Of Innocence Chain"、
+  "item.kingdomkeys.silent_dirge"： "サイレントダージ"、
+  "item.kingdomkeys.silent_dirge_chain"： "サイレントダージチェーン"、
+  "item.kingdomkeys.sinister_crystal"： "Sinister Crystal"、
+  "item.kingdomkeys.sinister_gem"： "Sinister Gem"、
+  "item.kingdomkeys.sinister_shard"： "Sinister Shard"、
+  "item.kingdomkeys.sinister_stone"： "Sinister Stone"、
+  "item.kingdomkeys.sizzling_edge"： "Sizzling Edge"、
+  "item.kingdomkeys.skater_bomb_spawn_egg"： "Spawn Skater Bomb"、
+  "item.kingdomkeys.skull_noise"： "スカルノイズ"、
+  "item.kingdomkeys.skull_noise_chain"： "スカルノイズチェーン"、
+  "item.kingdomkeys.skysplitter"： "Skysplitter"、
+  "item.kingdomkeys.sleeping_darkness"： "眠れる闇"、
+  "item.kingdomkeys.sleeping_lion"： "眠っているライオン"、
+  "item.kingdomkeys.sleeping_lion_chain"： "眠っているライオンの鎖"、
+  "item.kingdomkeys.snowman"： "雪だるま"、
+  "item.kingdomkeys.snowslide"： "雪崩"、
+  "item.kingdomkeys.soleil_couchant"： "Soleil Couchant"、
+  "item.kingdomkeys.solemn_magnolia"： "厳粛なマグノリア"、
+  "item.kingdomkeys.songbird"： "Songbird"、
+  "item.kingdomkeys.soothing_crystal"： "Soothing Crystal"、
+  "item.kingdomkeys.soothing_gem"： "Soothing Gem"、
+  "item.kingdomkeys.soothing_shard"： "Soothing Shard"、
+  "item.kingdomkeys.soothing_stone"： "Soothing Stone"、
+  "item.kingdomkeys.sorcerous_waking"： "Sorcerous Waking"、
+  "item.kingdomkeys.soul_eater"： "ソウルイーター"、
+  "item.kingdomkeys.soul_eater_chain"： "ソウルイーターチェーン"、
+  "item.kingdomkeys.spellaero"： "エアロスペル"、
+  "item.kingdomkeys.spellbinder"： "Spellbinder"、
+  "item.kingdomkeys.spellbinder_chain"： "スペルバインダーチェーン"、
+  "item.kingdomkeys.spellblizzard"： "Blizzard Spell"、
+  "item.kingdomkeys.spellcure"： "Cure Spell"、
+  "item.kingdomkeys.spellfire"： "Fire Spell"、
+  "item.kingdomkeys.spellgravity"： "Gravity Spell"、
+  "item.kingdomkeys.spellmagnet"： "Magnet Spell"、
+  "item.kingdomkeys.spellreflect"： "Reflect Spell"、
+  "item.kingdomkeys.spellstop"： "Stop Spell"、
+  "item.kingdomkeys.spellthunder"： "Thunder Spell"、
+  "item.kingdomkeys.spellwater"： "ウォータースペル"、
+  "item.kingdomkeys.stagnant_space"： "停滞したスペース"、
+  "item.kingdomkeys.standalone"： "スタンドアロン"、
+  "item.kingdomkeys.star_charm"： "スターチャーム"、
+  "item.kingdomkeys.star_seeker"： "スターシーカー"、
+  "item.kingdomkeys.star_seeker_chain"： "スターシーカーチェーン"、
+  "item.kingdomkeys.star_shell"： "スターシェル"、
+  "item.kingdomkeys.stardust"： "スターダスト"、
+  "item.kingdomkeys.starlight"： "Starlight"、
+  "item.kingdomkeys.starlight_chain"： "スターライトチェーン"、
+  "item.kingdomkeys.stingray"： "Stingray"、
+  "item.kingdomkeys.stirring_ladle"： "スターリングレードル"、
+  "item.kingdomkeys.storm_bomb_spawn_egg"： "Spawn Storm Bomb"、
+  "item.kingdomkeys.stormfall"： "ストームフォール"、
+  "item.kingdomkeys.stormfall_chain"： "ストームフォールチェーン"、
+  "item.kingdomkeys.stormy_crystal"： "ストーミークリスタル"、
+  "item.kingdomkeys.stormy_gem"： "ストーミージェム"、
+  "item.kingdomkeys.stormy_shard"： "ストーミーシャード"、
+  "item.kingdomkeys.stormy_stone"： "ストーミーストーン"、
+  "item.kingdomkeys.strength"： "Strength"、
+  "item.kingdomkeys.stroke_of_midnight"： "Stroke Of Midnight"、
+  "item.kingdomkeys.stroke_of_midnight_chain"： "Stroke Of Midnight Chain"、
+  "item.kingdomkeys.subzero"： "サブゼロ"、
+  "item.kingdomkeys.sunrise"： "Sunrise"、
+  "item.kingdomkeys.superiority"： "Superiority"、
+  "item.kingdomkeys.sweet_dreams"： "Sweet Dreams"、
+  "item.kingdomkeys.sweet_dreams_chain"： "Sweet Dreams Chain"、
+  "item.kingdomkeys.sweet_memories"： "Sweet Memories"、
+  "item.kingdomkeys.sweet_memories_chain"： "Sweet Memories Chain"、
+  "item.kingdomkeys.sweetstack"： "Sweetstack"、
+  "item.kingdomkeys.sweetstack_chain"： "スイートスタックチェーン"、
+  "item.kingdomkeys.synthesis_bag"： "合成バッグ"、
+  "item.kingdomkeys.taboo_text"： "タブーテキスト"、
+  "item.kingdomkeys.teeming_darkness"： "Teeming Darkness"、
+  "item.kingdomkeys.temperance"： "Temperance"、
+  "item.kingdomkeys.tempete"： "Tempete"、
+  "item.kingdomkeys.terminal"： "Terminus"、
+  "item.kingdomkeys.terra_boots"： "テラブーツ"、
+  "item.kingdomkeys.terra_chestplate"： "テラチェストプレート"、
+  "item.kingdomkeys.terra_helmet"： "テラヘルメット"、
+  "item.kingdomkeys.terra_leggings"： "テラレギンス"、
+  "item.kingdomkeys.terrene"： "Terrene"、
+  "item.kingdomkeys.tester_zero"： "テスターゼロ"、
+  "item.kingdomkeys.the_chariot"： "戦車"、
+  "item.kingdomkeys.the_devil"： "悪魔"、
+  "item.kingdomkeys.the_emperor"： "皇帝"、
+  "item.kingdomkeys.the_empress"： "女帝"、
+  "item.kingdomkeys.the_fool"： "The Fool"、
+  "item.kingdomkeys.the_hanged_man"： "吊された男"、
+  "item.kingdomkeys.the_hermit"： "隠者"、
+  "item.kingdomkeys.the_hierophant"： "教皇"、
+  "item.kingdomkeys.the_high_priestess"： "The High Priestess"、
+  "item.kingdomkeys.the_joker"： "ジョーカー"、
+  "item.kingdomkeys.the_lovers"： "恋人"、
+  "item.kingdomkeys.the_magician"： "The Magician"、
+  "item.kingdomkeys.the_moon"： "月"、
+  "item.kingdomkeys.the_star"： "The Star"、
+  "item.kingdomkeys.the_sun"： "The Sun"、
+  "item.kingdomkeys.the_tower"： "タワー"、
+  "item.kingdomkeys.the_world"： "世界"、
+  "item.kingdomkeys.three_wishes"： "3つの願い"、
+  "item.kingdomkeys.three_wishes_chain"： "Three Wishes Chain"、
+  "item.kingdomkeys.total_eclipse"： "Total Eclipse"、
+  "item.kingdomkeys.total_eclipse_chain"： "皆既日食チェーン"、
+  "item.kingdomkeys.tourbillon"： "トゥールビヨン"、
+  "item.kingdomkeys.tragic_allium"： "Tragic Allium"、
+  "item.kingdomkeys.trancheuse"： "Trancheuse"、
+  "item.kingdomkeys.tranquil_darkness"： "Tranquil Darkness"、
+  "item.kingdomkeys.tranquility_crystal"： "トランキリティクリスタル"、
+  "item.kingdomkeys.tranquility_gem"： "Tranquility Gem"、
+  "item.kingdomkeys.tranquility_shard"： "Tranquility Shard"、
+  "item.kingdomkeys.tranquility_stone"： "Tranquility Stone"、
+  "item.kingdomkeys.treacherous_repository"： "危険なリポジトリ"、
+  "item.kingdomkeys.treasure_trove"： "財宝法"、
+  "item.kingdomkeys.treasure_trove_chain"： "財宝法チェーン"、
+  "item.kingdomkeys.triumph"： "Triumph"、
+  "item.kingdomkeys.true_lights_flight"： "True Lights Flight"、
+  "item.kingdomkeys.true_lights_flight_chain"： "True Lightsフライトチェーン"、
+  "item.kingdomkeys.trumpet"： "トランペット"、
+  "item.kingdomkeys.tune_up"： "チューンアップ"、
+  "item.kingdomkeys.twilight"： "トワイライト"、
+  "item.kingdomkeys.twilight_blaze"： "トワイライトブレイズ"、
+  "item.kingdomkeys.twilight_blaze_chain"： "トワイライトブレイズチェーン"、
+  "item.kingdomkeys.twilight_crystal"： "トワイライトクリスタル"、
+  "item.kingdomkeys.twilight_gem"： "トワイライトジェム"、
+  "item.kingdomkeys.twilight_shard"： "トワイライトシャード"、
+  "item.kingdomkeys.twilight_stone"： "トワイライトストーン"、
+  "item.kingdomkeys.two_become_one"： "2つが1つになる"、
+  "item.kingdomkeys.two_become_one_chain"： "2つが1つのチェーンになります"、
+  "item.kingdomkeys.typhon"： "Typhon"、
+  "item.kingdomkeys.tyrant"： "暴君"、
+  "item.kingdomkeys.ultima_weapon_bbs"： "Ultima Weapon（BBS）"、
+  "item.kingdomkeys.ultima_weapon_bbs_chain"： "Ultima Weapon（BBS）Chain"、
+  "item.kingdomkeys.ultima_weapon_ddd"： "Ultima Weapon（DDD）"、
+  "item.kingdomkeys.ultima_weapon_ddd_chain"： "Ultima Weapon（DDD）Chain"、
+  "item.kingdomkeys.ultima_weapon_kh1"： "Ultima Weapon（KH1）"、
+  "item.kingdomkeys.ultima_weapon_kh1_chain"： "Ultima Weapon（KH1）Chain"、
+  "item.kingdomkeys.ultima_weapon_kh2"： "Ultima Weapon（KH2）"、
+  "item.kingdomkeys.ultima_weapon_kh2_chain"： "Ultima Weapon（KH2）Chain"、
+  "item.kingdomkeys.ultima_weapon_kh3"： "Ultima Weapon（KH3）"、
+  "item.kingdomkeys.ultima_weapon_kh3_chain"： "Ultima Weapon（KH3）Chain"、
+  "item.kingdomkeys.umbrella"： "傘"、
+  "item.kingdomkeys.umbrella_chain"： "傘チェーン"、
+  "item.kingdomkeys.unbound"： "Unbound"、
+  "item.kingdomkeys.unbound_chain"： "アンバウンドチェーン"、
+  "item.kingdomkeys.untitled_writings"： "無題の執筆"、
+  "item.kingdomkeys.up_to_eleven"： "Up To Eleven"、
+  "item.kingdomkeys.ursa_major"： "おおぐま座"、
+  "item.kingdomkeys.vague"： "Vague"、
+  "item.kingdomkeys.vanitas_boots"： "ヴァニタスブーツ"、
+  "item.kingdomkeys.vanitas_chestplate"： "ヴァニタスチェストプレート"、
+  "item.kingdomkeys.vanitas_helmet"： "ヴァニタスヘルメット"、
+  "item.kingdomkeys.vanitas_leggings"： "ヴァニタスレギンス"、
+  "item.kingdomkeys.veneration"： "崇敬"、
+  "item.kingdomkeys.ventus_boots"： "Ventus Boots"、
+  "item.kingdomkeys.ventus_chestplate"： "ベンタスチェストプレート"、
+  "item.kingdomkeys.ventus_helmet"： "Ventusヘルメット"、
+  "item.kingdomkeys.ventus_leggings"： "Ventus Leggings"、
+  "item.kingdomkeys.victory_line"： "勝利ライン"、
+  "item.kingdomkeys.victory_line_chain"： "勝利ラインチェーン"、
+  "item.kingdomkeys.vindictive_thistle"： "Vindictive Thistle"、
+  "item.kingdomkeys.void_gear"： "Void Gear"、
+  "item.kingdomkeys.void_gear_chain"： "ボイドギアチェーン"、
+  "item.kingdomkeys.void_gear_remnant"： "Void Gear Remnant"、
+  "item.kingdomkeys.void_gear_remnant_chain"： "ボイドギアレムナントチェーン"、
+  "item.kingdomkeys.vol_de_nuit"： "Vol De Nuit"、
+  "item.kingdomkeys.volcanics"： "Volcanics"、
+  "item.kingdomkeys.vortex"： "Vortex"、
+  "item.kingdomkeys.way_to_the_dawn"： "夜明けへの道"、
+  "item.kingdomkeys.way_to_the_dawn_chain"： "夜明けの鎖への道"、
+  "item.kingdomkeys.wayward_wind"： "Wayward Wind"、
+  "item.kingdomkeys.wayward_wind_chain"： "Wayward Wind Chain"、
+  "item.kingdomkeys.weightless_space"： "ウェイトレススペース"、
+  "item.kingdomkeys.wellspring_crystal"： "ウェルスプリングクリスタル"、
+  "item.kingdomkeys.wellspring_gem"： "ウェルスプリングジェム"、
+  "item.kingdomkeys.wellspring_shard"： "ウェルスプリングシャード"、
+  "item.kingdomkeys.wellspring_stone"： "ウェルスプリングストーン"、
+  "item.kingdomkeys.werewolf"： "Werewolf"、
+  "item.kingdomkeys.white_tome"： "ホワイトトメ"、
+  "item.kingdomkeys.wildfire"： "Wildfire"、
+  "item.kingdomkeys.winners_proof"： "勝者の証明"、
+  "item.kingdomkeys.winners_proof_chain"： "勝者証明チェーン"、
+  "item.kingdomkeys.wishing_lamp"： "ウィッシングランプ"、
+  "item.kingdomkeys.wishing_lamp_chain"： "ウィッシングランプチェーン"、
+  "item.kingdomkeys.wishing_star"： "ウィッシングスター"、
+  "item.kingdomkeys.wishing_star_chain"： "ウィッシングスターチェーン"、
+  "item.kingdomkeys.wooden_keyblade"： "木製キーブレード"、
+  "item.kingdomkeys.wooden_stick"： "木製スティック"、
+  "item.kingdomkeys.writhing_crystal"： "身もだえクリスタル"、
+  "item.kingdomkeys.writhing_gem"： "身もだえする宝石"、
+  "item.kingdomkeys.writhing_shard"： "Writhing Shard"、
+  "item.kingdomkeys.writhing_stone"： "身もだえ石"、
+  "item.kingdomkeys.wurm"： "ワーム"、
+  "item.kingdomkeys.wyvern"： "ワイバーン"、
+  "item.kingdomkeys.xemnas_boots"： "Xemnas Boots"、
+  "item.kingdomkeys.xemnas_chestplate"： "Xemnas Coat"、
+  "item.kingdomkeys.xemnas_helmet"： "Xemnas Hood"、
+  "item.kingdomkeys.xemnas_leggings"： "Xemnasレギンス"、
+  "item.kingdomkeys.yaksha"： "Yaksha"、
+  "item.kingdomkeys.yellow_opera_spawn_egg"： "Spawn Yellow Opera"、
+  "item.kingdomkeys.young_xehanorts_keyblade"： "Young Xehanort's Keyblade"、
+  "item.kingdomkeys.young_xehanorts_keyblade_chain"： "Young Xehanort's Keyblade Chain"、
+  "item.kingdomkeys.zephyr"： "Zephyr"、
+  "item.kingdomkeys.zero_one"： "ゼロワン"、
+  "item.kingdomkeys.zero_one_chain"： "ゼロワンチェーン"、
+  "item.mapcard.prefix"： "（％s）％s"、
+  "itemGroup.kingdomkeys_keyblades"： "Kingdom Keys：Keyblades"、
+  "itemGroup.kingdomkeys_misc"： "Kingdom Keys：Misc"、
+  "itemGroup.kingdomkeys_org_weapons"： "Kingdom Keys：Organization Weapons"、
+  "jei.category.kingdomkeys.keyblade_summon"： "キーブレード召喚"、
+  "jei.category.kingdomkeys.keyblade_summon.info"： "ハウツーの情報を表示"、
+  "jei.category.kingdomkeys.synthesis"： "アイテム合成"、
+  "jei.category.kingdomkeys.synthesis.locked"： "レシピのロックが解除されていません"、
+  "jei.category.kingdomkeys.synthesis.unlocked"： "レシピのロックが解除されました"、
+  "jei.info.kingdomkeys.blast_blox"： "TNTのように、より破壊的な力を持ち、手の羽以外のものと接触するとトリガーされます。"、
+  "jei.info.kingdomkeys.bounce_blox"： "このブロックを踏むエンティティは跳ね返り、跳ね返ることなくブロックに着陸します。"、
+  "jei.info.kingdomkeys.danger_blox"： "サボテンに似ていますが、より多くのダメージを与え、接触時やヒット時にダメージを与えます。サボテンとは異なり、配置の制限や成長はありません。ブーツを履いて、歩くときのダメージを避けてください。 "、
+  "jei.info.kingdomkeys.final_orb"： "ファイナルフォームのロックを解除するために使用します。ファイナルには2番目のキーブレードスロットがあります。アクティベーションにはドライブゲージの5本のバーが必要です。レアプライズブロックスの破壊からドロップされました。"、
+  "jei.info.kingdomkeys.ghost_blox"： "レッドストーン信号を適用して、GhostBloxと隣接するすべてのGhostBloxの表示を切り替えますが、非表示の状態では衝突は発生しません。"、
+  "jei.info.kingdomkeys.keychains"： "キーチェーンを使用すると、Kingdom Keysメニューからキーチェーンを装備することで、関連するキーブレードを呼び出すことができます。召喚キーを使用して、キーブレードを呼び出すことができます。"、
+  "jei.info.kingdomkeys.limit_orb"： "リミットフォームのロックを解除するために使用します。アクティベーションにはドライブゲージの4本のバーが必要です。レアプライズブロックスを破ることからドロップされました。"、
+  "jei.info.kingdomkeys.magnet_blox"： "エンティティをその向きに引っ張るか押します。レッドストーン信号を適用してアクティブにし、右クリックして範囲を変更し、こぶしで右クリックして引き付けと反発モードを切り替えます。" 、
+  "jei.info.kingdomkeys.master_orb"： "マスターフォームのロックを解除するために使用します。マスターには2番目のキーブレードスロットがあります。アクティベーションにはドライブゲージの4本のバーが必要です。レアプライズブロックスの破壊からドロップされました。"、
+  "jei.info.kingdomkeys.moogle_projector"： "アンビルによって殺されたときにモーグリから取得されます。アイテムの合成に使用され、キーブレードフォージを介してキーブレードをアップグレードし、合成に使用される材料を配置します。モーグリもこれと同じ目的を果たします。"、
+  "jei.info.kingdomkeys.organization_robes"： "参加する組織全体を着用し、最初にメンバーを選択します。誰を選択しても、すべてのメンバーの武器のロックを解除できますが、最初に隣接するメンバーの武器のロックを解除する必要があります。"、
+  "jei.info.kingdomkeys.organization_weapons"： "組織メンバーとして、キルから得たハートを使うことで装備メニュー内の武器のロックを解除できます。選択したメンバーの武器を使用すると、2倍のハートを獲得できます。召喚を使用して武器を召喚します。鍵。"、
+  "jei.info.kingdomkeys.proof_of_heart"： "エンダードラゴンを倒して得たもので、これを使って組織を去ります。"、
+  "jei.info.kingdomkeys.recipes"： "モブからドロップされ、村のモーグリの家の宝箱で見つかりました。これらを使用して、アイテム合成のレシピのロックを解除します。"、
+  "jei.info.kingdomkeys.spell_orb"： "指定された呪文のロックを解除するために使用します。十分なMPがある限り、コマンドメニューでロック解除された魔法を使用できます。レベル5まではMPが0になります。PrizeBloxの破壊から削除されます。 。"、
+  "jei.info.kingdomkeys.valor_orb"： "バロールフォームのロックを解除するために使用します。バロールには2番目のキーブレードスロットがあります。アクティベーションにはドライブゲージの3本のバーが必要です。レアプライズブロックスの破壊からドロップされました。"、
+  "jei.info.kingdomkeys.wisdom_orb"： "ウィズダムフォームのロックを解除するために使用します。アクティベーションにはドライブゲージの3本のバーが必要です。レアプライズブロックスの破壊からドロップされました。"、
+  "key.categories.kingdomkeys"： "Kingdom Keys"、
+  "key.kingdomkeys.action"： "アクションキー"、
+  "key.kingdomkeys.back"： "コマンドメニュー戻る"、
+  "key.kingdomkeys.enter"： "コマンドメニュー入力"、
+  "key.kingdomkeys.lockon"： "ロックオン"、
+  "key.kingdomkeys.openmenu"： "メニューを開く"、
+  "key.kingdomkeys.reactioncommand"： "反応コマンド"、
+  "key.kingdomkeys.scrollactivator"： "コマンドメニューのマウスコントローラーキー"、
+  "key.kingdomkeys.scrolldown"： "コマンドメニューダウン"、
+  "key.kingdomkeys.scrollup"： "コマンドメニューアップ"、
+  "key.kingdomkeys.showgui"： "Toggle HUD"、
+  "key.kingdomkeys.summonkeyblade"： "召喚武器"、
+  "keybladedamage.death"： "％sは％sによって殺されました"、
+  "limit.arrow_rain.name"： "矢印の雨"、
+  "limit.laser_circle.name"： "レーザーサークル"、
+  "limit.laser_dome.name"： "レーザードーム"、
+  "magic.magic_aero0.name"： "Aero"、
+  "magic.magic_aero1.name"： "Aerora"、
+  "magic.magic_aero2.name"： "Aeroga"、
+  "magic.magic_blizzard0.name"： "Blizzard"、
+  "magic.magic_blizzard1.name"： "Blizzara"、
+  "magic.magic_blizzard2.name"： "Blizzaga"、
+  "magic.magic_blizzard3.name"： "Blizzaza"、
+  "magic.magic_cure0.name"： "Cure"、
+  "magic.magic_cure1.name"： "Cura"、
+  "magic.magic_cure2.name"： "Curaga"、
+  "magic.magic_fire0.name"： "Fire"、
+  "magic.magic_fire1.name"： "Fira"、
+  "magic.magic_fire2.name"： "Firaga"、
+  "magic.magic_fire3.name"： "Firaza"、
+  "magic.magic_gravity0.name"： "重力"、
+  "magic.magic_gravity1.name"： "Gravira"、
+  "magic.magic_gravity2.name"： "Graviga"、
+  "magic.magic_magnet0.name"： "マグネット"、
+  "magic.magic_magnet1.name"： "マグネラ"、
+  "magic.magic_magnet2.name"： "マグネガ"、
+  "magic.magic_reflect0.name"： "Reflect"、
+  "magic.magic_reflect1.name"： "Reflera"、
+  "magic.magic_reflect2.name"： "Reflega"、
+  "magic.magic_stop0.name"： "停止"、
+  "magic.magic_stop1.name"： "Stopra"、
+  "magic.magic_stop2.name"： "Stopga"、
+  "magic.magic_thunder0.name"： "サンダー"、
+  "magic.magic_thunder1.name"： "Thundara"、
+  "magic.magic_thunder2.name"： "Thundaga"、
+  "magic.magic_thunder3.name"： "Thundaza"、
+  "magic.magic_water0.name"： "水"、
+  "magic.magic_water1.name"： "Watera"、
+  "magic.magic_water2.name"： "Waterga"、
+  "magic.magic_water3.name"： "Waterza"、
+  "message.chest.can_be_locked"： "キーブレードでロックできます"、
+  "message.chest.keyblade_set"： "キーブレードはこのチェストのロックを解除するように設定されています"、
+  "message.chest.lock"： "キーブレードを使用してこのチェストをロックします"、
+  "message.chest.locked"： "このチェストはロックされています"、
+  "message.chest.unlocked"： "胸がロック解除されました"、
+  "message.form_unlocked"： "ロック解除された％sフォーム"、
+  "message.kingdomkeys.gui_toggle"： "GUI表示が設定されています：％s"、
+  "message.magnet_blox.attract"： "アトラクトモード"、
+  "message.magnet_blox.range"： "範囲は現在：％s"、
+  "message.magnet_blox.repel"： "反発モード"、
+  "potion.desc.beginning"： "％s％s％sを復元します"、
+  "potion.desc.drive"： "\ u00A7eDrive \ u00A7r"、
+  "potion.desc.focus"： "\ u00A76Focus \ u00A7r"、
+  "potion.desc.hp"： "\ u00A7aHP \ u00A7r"、
+  "potion.desc.hpmp"： "\ u00A7aHP\u00A7rおよび\u00A79MP\ u00A7r"、
+  "potion.desc.mp"： "\ u00A79MP \ u00A7r"、
+  "potion.desc.toall"： "範囲内のすべてのパーティーメンバーに"、
+  "potion.desc.toone"： "選ばれたパーティーメンバーへ"、
+  "reactioncommand.rc_auto_final.name"： "自動ファイナル"、
+  "reactioncommand.rc_auto_limit.name"： "自動制限"、
+  "reactioncommand.rc_auto_master.name"： "自動マスター"、
+  "reactioncommand.rc_auto_valor.name"： "Auto Valor"、
+  "reactioncommand.rc_auto_wisdom.name"： "自動知恵"、
+  "shotlock.circular_shotlock.name"： "Ragnarok"、
+  "shotlock.dark_volley.name"： "ダークボレー"、
+  "shotlock.prism_rain.name"： "Prism Rain"、
+  "soa.cancel"： "いいえ。"、
+  "soa.choice.confirm"： "これはあなたが求める力ですか？"、
+  "soa.choice.intro.1"："力はあなたの中に眠ります。"、
+  "soa.choice.intro.2"： "フォームを指定すると..."、
+  "soa.choice.intro.3"："それはあなたに力を与えるでしょう。"、
+  "soa.choice.intro.4"： "よく選択してください。"、
+  "soa.confirm.1"： "あなたは力を選んだ"、
+  "soa.confirm.3"： "あなたは力を与えました"、
+  "soa.confirm.5"： "これはあなたが選んだ形式ですか？"、
+  "soa.confirm.cancel"： "多分そうではありません。"、
+  "soa.confirm.guardian"： "ガーディアンの"、
+  "soa.confirm.mystic"："神秘主義者の"、
+  "soa.confirm.warrior"： "戦士の"、
+  "soa.guardian.1"："保護者の力。"、
+  "soa.guardian.2"："友達を助ける優しさ"、
+  "soa.guardian.3"："すべてを撃退するための盾。"、
+  "soa.menu.1"："メニューを開く前に"、
+  "soa.menu.2"："選択する必要があります。"、
+  "soa.menu.cancel"： "キャンセル。"、
+  "soa.menu.ok"： "OK"、
+  "soa.mystic.1"："神秘の力。"、
+  "soa.mystic.2"： "内なる強さ。"、
+  "soa.mystic.3"： "不思議と破滅の杖。"、
+  「soa.ok」：「はい」、
+  "soa.reset.intro.1"："慎重に選択してください。"、
+  "soa.reset.intro.2"： "あなたの力はどのような形になりますか？"、
+  "soa.sacrifice.confirm"： "あなたはこの力を放棄しますか？"、
+  "soa.sacrifice.intro.1"： "パスが設定されました。"、
+  "soa.sacrifice.intro.2"： "では、代わりに何を諦めますか？"、
+  "soa.subtitle"： "Dive to the Heart"、
+  "soa.title"： "Station of Awakening"、
+  "soa.warrior.1"： "戦士の力。"、
+  "soa.warrior.2"： "無敵の勇気。"、
+  "soa.warrior.3"："ひどい破壊の剣。"、
+  "stats.levelUpAP"： "最大APが増加しました！"、
+  "stats.levelUpDef"： "防御力が向上しました！"、
+  "stats.levelUpFG"： "フォームゲージがパワーアップしました！"、
+  "stats.levelUpHP"： "最大HPが増加しました！"、
+  "stats.levelUpMP"： "最大MPが増加しました！"、
+  "stats.levelUpMag"： "魔法が増加しました！"、
+  "stats.levelUpStr"： "強度が増加しました！"
+}
